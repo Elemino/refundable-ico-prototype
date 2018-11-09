@@ -71,21 +71,3 @@ rico.refund(accounts[0], 50);
 // check the current status
 rico.log();
 ```
-
-
-## Run tests 
-
-Go into your repository and run:
-
-```
-$ npm install
-$ npm install -g mocha // make sure mocha is globally installed
-```
-
-To run tests, run:
-
-```
-$ npm test
-```
-
-
